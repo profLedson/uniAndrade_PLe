@@ -37,6 +37,8 @@ RUN add-apt-repository ppa:ubuntu-toolchain-r/test -y && \
     update-alternatives --install /usr/bin/gcc gcc /usr/bin/gcc-14 100 && \
     update-alternatives --install /usr/bin/g++ g++ /usr/bin/g++-14 100
 
+# Instalar sdllib3
+#RUN apt-get install libsdl2-dev
 # Verificar instalação do GCC
 RUN gcc --version && g++ --version
 
