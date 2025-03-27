@@ -1,4 +1,4 @@
-df### Notas - Programação MultiParadigmas
+Notas - Programação MultiParadigmas
 
 ## Critérios de avaliação
 -   [] Simplicidade
@@ -16,8 +16,8 @@ df### Notas - Programação MultiParadigmas
 
 ### CRITÉRIOS DE ORTOGONALIDADE
 - CONSISTÊNCIA / ESTRUTURAS DE DADOS
-    - [] Declaração e atribuição de valores
-    - [] Sobrecarga de operadores (+ - * / % and or not && || != !== == === )
+    - [x] Declaração e atribuição de valores
+    - [x] Sobrecarga de operadores (+ - * / % and or not && || != !== == === )
     - [] Conversões implícitas, truncamentos, arredondamentos
     - [] Tipos primitivos (int, float, double, bool, null, void, undefined)
     - [] Arrays, listas, structs, union, enum, objetos literais, conjuntos, dicionários etc...
@@ -65,8 +65,6 @@ df### Notas - Programação MultiParadigmas
 - https://www.geeksforgeeks.org/data-types-in-c/
 
 - https://www.cs.yale.edu/homes/aspnes/pinewiki/C(2f)Pointers.html
-
-
 
 
 ### FERRAMENTAS
