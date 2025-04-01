@@ -6,6 +6,15 @@
         "sdl_filesystem.h": "c",
         "stdbool.h": "c",
         "stdlib.h": "c",
-        "sdl_image.h": "c"
+        "sdl_image.h": "c",
+        "unistd.h": "c",
+        "inet.h": "c",
+        "string.h": "c",
+        "typeinfo": "c",
+        "math.h": "c",
+        "cstdlib": "c",
+        "floatn.h": "c",
+        "stdlib-ldbl.h": "c",
+        "features.h": "c"
     }
 }

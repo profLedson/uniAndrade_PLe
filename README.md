@@ -18,20 +18,25 @@ Notas - Programação MultiParadigmas
 - CONSISTÊNCIA / ESTRUTURAS DE DADOS
     - [x] Declaração e atribuição de valores
     - [x] Sobrecarga de operadores (+ - * / % and or not && || != !== == === )
-    - [] Conversões implícitas, truncamentos, arredondamentos
     - [] Tipos primitivos (int, float, double, bool, null, void, undefined)
+    - [] Conversões implícitas, truncamentos, arredondamentos
     - [] Arrays, listas, structs, union, enum, objetos literais, conjuntos, dicionários etc...
     - [] Strings (métodos: manipulação, impressão, concatenação)
     - [] Loops: for, while, do while
     - [] Guardas: if, if else, elif, switch case
 
 - FUNÇÕES
+    - [] O que é uma Função?
     - [] Declaração e uso de Funções
+        - Argumentos posicionais e nomeados
+        - Valores padrão
+        - Parâmetros - passagem por valor e referência
+        - Parâmetros - função como parâmetro
+        - Funções com '#define'
+
+    - [] Argumentos arbitrários ( *args e **kwargs )
     - [] Funções que executam funções
     - [] Funções como objetos de primeira classe
-    - [] Argumentos posicionais e nomeados
-    - [] Valores padrão
-    - [] Argumentos arbitrários ( *args e **kwargs )
     - [] funções anônimas (lambda)
 
 - CLASSES / OBJETOS
