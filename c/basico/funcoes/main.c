@@ -10,7 +10,7 @@
 
 // [] Funções como parâmetro
 
-// [] Structs como parâmetros de Funções
+// [] Structs como parâmetros ou retorno de Funções
 
 
 

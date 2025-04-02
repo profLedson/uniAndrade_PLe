@@ -10,12 +10,14 @@
 //     return 0;
 // }
 
+
 // int main(int argc)
 // {
 //     /* code */
 //     printf("nArgs: %d\n", argc);
 //     return 0;
 // }
+
 
 // int main(int argc, char* argv[])
 // {
@@ -39,8 +41,6 @@
 //         printf("\t%.1f\n", intToFloat(n)); 
 //     puts("\n=================\n");
 // };
-
-
 
 // int main()
 // {
@@ -91,7 +91,7 @@
 // }
 
 
-// typedef struct
+// typedef struct 
 // {
 //     char name[50];
 //     float power;
