@@ -21,4 +21,21 @@
 
 // ----------------------- DECLARAÇÃO / ARGS --------------------------
 
+// float intToFloat(int a){
+//     return a;
+// }
+
+// void toHalf(int a){
+//     printf("Valor original %d\n", a);
+//     int half = a * 0.5;
+//     printf("Valor alterado %.2f\n", intToFloat(half));
+    
+// }
+
+// int main()
+// {
+//     toHalf(22);
+
+//     return EXIT_SUCCESS;
+// }
 

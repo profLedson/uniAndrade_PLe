@@ -30,8 +30,6 @@
 //     return 0;
 // }
 
-//<Tipo_Retorno><identificador>(args)
-
 // float intToFloat(int n1) {
 //     return ( n1 * 0.5 );
 // } 
