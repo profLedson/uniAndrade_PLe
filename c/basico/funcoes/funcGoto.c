@@ -1,12 +1,9 @@
 #include <stdio.h>
-#include <stdlib.h>
-#include "lib/clear.h"
 
 int main()
 {
     int numero;
-
-    clear2();
+    
     printf("Digite um número: ");
     scanf("%d", &numero);
 

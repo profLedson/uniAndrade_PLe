@@ -15,6 +15,14 @@
         "cstdlib": "c",
         "floatn.h": "c",
         "stdlib-ldbl.h": "c",
-        "features.h": "c"
+        "features.h": "c",
+        "clear.h": "c",
+        "menu_livraria.h": "c",
+        "livro.h": "c",
+        "persistencia.h": "c",
+        "utils.h": "c",
+        "menu.h": "c",
+        "limits.h": "c",
+        "strings_func.h": "c"
     }
 }

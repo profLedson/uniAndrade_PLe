@@ -1,8 +1,9 @@
 
 // [] Programação estruturada: Quais problemas resolve?
 
-// [] função main (com e sem argumentos, quaantos e quais?)
+//<Tipo_Retorno><identificador>(args)
 
+// [] função main (com e sem argumentos, quaantos e quais?)
 
 // [] funções Void e Tipos de retorno (EXIT_SUCCESS / EXIT_FAILURE)
 

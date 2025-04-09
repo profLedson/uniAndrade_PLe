@@ -1,0 +1,21 @@
+CC = gcc
+CFLAGS = -Wall -Werror -Wno-unused-result -O2
+SRC = ./src/*.c
+O = ./obj
+OBJ = ./obj/strings2
+
+
+all: 
+				$(CC)  -o $(OBJ) $(SRC)
+				
+
+run:
+				$(OBJ)
+
+asm:
+				for file in $(SRC); do \
+        $(CC) $(CFLAGS) -S -o $(O)/$$(basename $$file .c).s $$file; \
+    done
+				
+clean:
+				rm -f $(O)/*

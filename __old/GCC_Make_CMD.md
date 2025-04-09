@@ -3,7 +3,7 @@ gcc main.c -o main
 
 ### Parâmetros extras GCC
 - gcc main.c -lm  -> Linka libs que o Compilador ignorou
-- gcc ­c arquivo.c (Apenas compila, sem linkar)
+- gcc -­c <arquivo>.c (Apenas compila, sem linkar)
 - gcc -S main.c (Gera assembly do arquivo fonte main.c)
 
 
